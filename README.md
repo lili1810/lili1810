@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 I'm Anna Lívia, a studant of computer science in the FEDERAL UNIVERSITY OF PARAÍBA, Brasil
 
 
